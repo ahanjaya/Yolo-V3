@@ -206,6 +206,7 @@ After training is complete - get result yolov3-tiny-custom_final.weights from pa
 * every each 100 iterations, weight will backup: Yolo-V3/custom_object/backup/yolov3-tiny-custom_last.weights
 * every each 1000 iterations weight will backup: Yolo-V3/custom_object/backup/yolov3-tiny-custom_1000.weights
 
+---
 
 ### Testing
 
