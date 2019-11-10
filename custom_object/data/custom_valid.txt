@@ -1,0 +1,17 @@
+/home/ahan/Deep_Learning/Yolo-V3/custom_object/data/custom_object_dataset/325.jpg
+/home/ahan/Deep_Learning/Yolo-V3/custom_object/data/custom_object_dataset/213.jpg
+/home/ahan/Deep_Learning/Yolo-V3/custom_object/data/custom_object_dataset/98.jpg
+/home/ahan/Deep_Learning/Yolo-V3/custom_object/data/custom_object_dataset/160.jpg
+/home/ahan/Deep_Learning/Yolo-V3/custom_object/data/custom_object_dataset/47.jpg
+/home/ahan/Deep_Learning/Yolo-V3/custom_object/data/custom_object_dataset/201.jpg
+/home/ahan/Deep_Learning/Yolo-V3/custom_object/data/custom_object_dataset/32.jpg
+/home/ahan/Deep_Learning/Yolo-V3/custom_object/data/custom_object_dataset/51.jpg
+/home/ahan/Deep_Learning/Yolo-V3/custom_object/data/custom_object_dataset/67.jpg
+/home/ahan/Deep_Learning/Yolo-V3/custom_object/data/custom_object_dataset/234.jpg
+/home/ahan/Deep_Learning/Yolo-V3/custom_object/data/custom_object_dataset/349.jpg
+/home/ahan/Deep_Learning/Yolo-V3/custom_object/data/custom_object_dataset/300.jpg
+/home/ahan/Deep_Learning/Yolo-V3/custom_object/data/custom_object_dataset/286.jpg
+/home/ahan/Deep_Learning/Yolo-V3/custom_object/data/custom_object_dataset/150.jpg
+/home/ahan/Deep_Learning/Yolo-V3/custom_object/data/custom_object_dataset/88.jpg
+/home/ahan/Deep_Learning/Yolo-V3/custom_object/data/custom_object_dataset/258.jpg
+/home/ahan/Deep_Learning/Yolo-V3/custom_object/data/custom_object_dataset/233.jpg
